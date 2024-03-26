@@ -1,5 +1,6 @@
 ![image](https://github.com/Sidhupaji-2004/Customer-Churn-Prediction/assets/116648570/402408ee-c97d-491f-a575-b2d10eaadc4d)
-
+Link to dataset : 
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 Customer Churn Prediction Project
 Overview:
